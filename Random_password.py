@@ -6,7 +6,7 @@ Punctuation=string.punctuation
 print(Punctuation)
 print(Numbers)
 print(Letters)
-print("Toeic")
+print("Toeic990")
 def password_generator(length):
     printable=f'{Letters}{Numbers}{Punctuation}'
     printable=list(printable)
